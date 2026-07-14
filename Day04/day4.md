@@ -1,4 +1,3 @@
-```markdown
 # Day 4 – Introduction to AI | Interview Questions & Notes
 
 ---
